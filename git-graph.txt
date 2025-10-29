@@ -1,0 +1,25 @@
+* baefa11 (HEAD -> feature/stash-practice) docs: Add changelog
+* 08a7427 docs: Add changelog
+* 876be48 docs: Add Git journey documentation
+* f39ee6a docs: Add Git journey documentation
+* 599af7b docs: Add student information to README
+* e35ad14 docs: Start git journey documentation
+* 5659c0e docs: Generate changelog
+* b0e36ea docs: Add student information
+* 56e2a76 docs: Add extra documentation file
+* 43d9ea6 bad: Another test commit
+* 317ff5a (origin/feature/stash-practice) fix: restore stashed work after cherry-pick
+* 19fdeae test: apply stashed changes back
+* de9024e (tag: v2.0.0, tag: v1.0.0) bad: Another test commit
+| * 91c194e (main) feat: Add stash test file
+| * ea5efcc (origin/main, origin/HEAD) merge: Resolve all conflicts between main and conflict-simulator branches
+|/| 
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* |   7facf81 merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
